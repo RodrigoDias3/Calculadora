@@ -22,10 +22,6 @@ To use the online calculator, follow these steps:
 3. Click on the respective operation button (addition, subtraction, multiplication, or division).
 4. View the result displayed on the screen.
 
-## Example Usage
-
-[Provide an example of how to use the calculator, if applicable]
-
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue to report bugs or suggest new features. If you'd like to contribute code, please open a pull request.
@@ -34,8 +30,4 @@ Contributions are welcome! Feel free to open an issue to report bugs or suggest 
 
 This project was developed by:
 
-- [Your Name] - [Your Student ID]
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+- Rodrigo Dias
